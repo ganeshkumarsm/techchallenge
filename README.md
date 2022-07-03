@@ -1,4 +1,4 @@
-# techchallenge
+# Techchallenge-1
 ![TechChallenge](https://user-images.githubusercontent.com/17821989/177029655-26d4ab26-8020-4263-be6e-a94616d434cb.png)
 #Challenge 1 - 3 Tier Architecture
 ===================================
